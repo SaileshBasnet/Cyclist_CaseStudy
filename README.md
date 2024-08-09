@@ -115,7 +115,8 @@ The dataset is considered a good data source based on the ROCCC method:
 ### Data Cleaning and Preparation in Microsoft Excel
 
 The following steps were performed to clean and prepare the data:
-Finding and Removing Blank Values:
+
+**Finding and Removing Blank Values**:
 -	Navigate to Home > Find & Select > Go to Special > Blanks.
 -	Delete rows with blank cells using Home > Delete > Delete Sheet Rows.
 
