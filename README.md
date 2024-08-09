@@ -217,7 +217,7 @@ The Snippet of dashboard:
 <p align="center"> <strong> Fig: Dashboard Popular Page </strong>  </p>
 
 ### Access the Dashboard
-You can access the dashboard from the following link: [Tableau Dashboard](#)
+You can access the dashboard from the following link: [Tableau Dashboard](https://public.tableau.com/app/profile/sailesh.basnet/viz/Cyclist_Project/Home_Dashboard)
 
 (*Note: For the best experience, use the **Full Screen** mode to view the dashboard properly.*)
 
