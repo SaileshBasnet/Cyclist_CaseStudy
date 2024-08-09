@@ -64,7 +64,7 @@ The final list of questions to analyze are:
 
 ## Stage 2: Prepare
 
-For this analysis, we are using the Cyclistics historical trip data [link to dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) from 2023 January(202212-divvy-tripdata.zip) to 2023 December(202311-divvy-tripdata.zip). To organize the files, we move the files in folder named as ‘Divvy_TripData_2023’. 
+For this analysis, we are using the Cyclistics historical trip data [link to dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) from 2023 January (202212-divvy-tripdata.zip) to 2023 December (202311-divvy-tripdata.zip). To organize the files, we move the files in folder named as ‘Divvy_TripData_2023’. 
 
 And, we extract all files under the above folder. Then, the files were organized and renamed for easier handling:
 -	202301-divvy-tripdata.csv – 2023_Jan_ride
@@ -182,4 +182,32 @@ The following steps were performed to clean and prepare the data for analysis:
 
 **Explore the code treasure:** [link to source code](https://github.com/SaileshBasnet/Cyclist_CaseStudy/blob/main/Data_Analysis.R )
 
+## Stage 5: Share
+
+### Visualizations using R
+
+** Total Rides by Month:** A bar chart showing the number of rides per month.
+
+** Rides by Bike Type:** A bar chart displaying the count of rides for each bike type.
+
+** Rides by User Type:** A bar chart showing the number of rides for members and casual users.
+
+** Rides by Bike Type and User Type:** A grouped bar chart depicting the count of rides by bike type for each user type.
+
+**Rides by Month, Bike Type, and User Type:** A faceted bar chart showing rides by month, bike type, and user type.
+
+**Average Ride Duration by Bike Type:** A bar chart showing the average ride duration for each bike type.
+
+**Distribution of Rides by Day of Week:** A bar chart displaying the distribution of rides across different days of the week.
+
+**Ride Length Comparison by User Type:** A bar chart comparing ride lengths between members and casual users.
+
+**Month-wise Maximum Rides in a Day:** A bar chart showing the maximum number of rides in a day for each month.
+
+**Top 10 Popular Start Stations for Members and Casual Riders:** Bar charts showing the most popular start stations for each user type.
+
 **Read the full documentation:** [link to R Markdown](www.google.com)
+
+After having idea of data, we created a Dashboard using Tableau for proper visualization.
+The Snippet of dashboard: 
+
