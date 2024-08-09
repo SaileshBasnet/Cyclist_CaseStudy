@@ -50,7 +50,7 @@ head(nov_2023)
 dec_2023 <- read.csv("D:\\Docs\\Google Data Analytics\\divvy_trip_2023\\2023_Ride_Record\\2023_Dec_ride.csv")
 head(dec_2023)
 
-# confirming datatypes are consistent in all data sets before combining them
+# Confirming datatypes are consistent in all data sets before combining them
 compare_df_cols(jan_2023,feb_2023,mar_2023,apr_2023,may_2023,jun_2023,jul_2023,
                 aug_2023,sep_2023,oct_2023,nov_2023,dec_2023, return = "mismatch")
 
