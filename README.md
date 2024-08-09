@@ -85,28 +85,28 @@ To avoid future accident, we also make a copy of all files in different folder n
 ### Metadata Description
 
 The dataset includes the following fields:
-•	ride_id: The ID of the ride
-•	rideable_type: The type of bikes
-•	started_at: Starting date of the ride
-•	ended_at: Ending date of the ride
-•	start_station_name: The name of the station where the ride starts
-•	start_station_id: The ID of the station where the ride starts
-•	end_station_name: The name of the station where the ride ends
-•	end_station_id: The ID of the station where the ride ends
-•	start_lat: The latitude of the starting location
-•	start_lng: The longitude of the starting location
-•	end_lat: The latitude of the ending location
-•	end_lng: The longitude of the ending location
-•	member_casual: The type of membership (Casual or Member)
+-	ride_id: The ID of the ride
+-	rideable_type: The type of bikes
+-	started_at: Starting date of the ride
+-	ended_at: Ending date of the ride
+-	start_station_name: The name of the station where the ride starts
+-	start_station_id: The ID of the station where the ride starts
+-	end_station_name: The name of the station where the ride ends
+-	end_station_id: The ID of the station where the ride ends
+-	start_lat: The latitude of the starting location
+-	start_lng: The longitude of the starting location
+-	end_lat: The latitude of the ending location
+-	end_lng: The longitude of the ending location
+-	member_casual: The type of membership (Casual or Member)
 
 ### Data Reliability and Quality
 
 The dataset is considered a good data source based on the ROCCC method:
-•	Reliability: The dataset includes over 5 million trip records annually.
-•	Originality: The dataset is collected and made available by Motivate International Inc.
-•	Comprehensiveness: The dataset covers various aspects of each trip, including membership status, ride date and time, start and end locations, and ride duration.
-•	Current: The dataset is from 2023 and is updated monthly.
-•	Cited: The dataset is properly cited.
+-	Reliability: The dataset includes over 5 million trip records annually.
+-	Originality: The dataset is collected and made available by Motivate International Inc.
+-	Comprehensiveness: The dataset covers various aspects of each trip, including membership status, ride date and time, start and end locations, and ride duration.
+-	Current: The dataset is from 2023 and is updated monthly.
+-	Cited: The dataset is properly cited.
 
 (****Note***: The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).*)
 
