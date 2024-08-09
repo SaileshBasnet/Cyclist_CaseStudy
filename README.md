@@ -1,2 +1,2 @@
-# **Cyclistic Bike-Share Program**
+# Cyclistic Bike-Share Program
 ## **Company Overview**
