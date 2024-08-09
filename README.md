@@ -180,5 +180,5 @@ The following steps were performed to clean and prepare the data for analysis:
 -	Most Popular Start and End Stations: Identification of the most popular start and end stations overall.
 -	Most Popular Start and End Stations by Member Type: Identification of the most popular start and end stations separately for members and casual users.
 
-
+**Explore the code treasure:** [link](https://github.com/SaileshBasnet/Cyclist_CaseStudy/blob/main/Data_Analysis.R )
 
