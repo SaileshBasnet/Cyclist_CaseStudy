@@ -214,9 +214,52 @@ The Snippet of dashboard:
 
 <p align="center"> **Fig: Dashboard Popular Page** </p>
 
-## Access the Dashboard
-You can access the dashboard from the following link:
+### Access the Dashboard
+You can access the dashboard from the following link: [Tableau Dashboard](#)
 
-[Tableau Dashboard](#)
+*Note: For the best experience, use the **Full Screen** mode to view the dashboard properly.*
 
-**Note:** For the best experience, use the **Full Screen** mode to view the dashboard properly.
+## Stage 6: Act
+
+### Summary of Data
+### Types of Rides: 
+-	Classic Bikes are the most popular among both users.
+-	Electric Bikes are used moderately.
+-	Docked Bikes are least used bike. Member doesn’t use Docked Bike. Only Casual rider use them. 
+### Number of Rides per Week:
+-	Casual rides bikes during weekend and least during work day. They most use ride in Saturday and least in Monday.
+-	Member continuously use rides during all day of week. They most use ride in Wednesday and least in Sunday.
+### Number of Rides per Month:
+-	Casual riders, number of rides is increasing during summer time and least in winter time. They most use rides in July and least in January.
+-	Member riders, rides bike throughout the year in balance way with slight increase during summer and least in winter time. They most use rides in August and least in February. 
+### Average Ride Length per Day:
+-	Casual riders: There are noticeable fluctuation in average ride length per day. The length of ride varies significantly day-to-day. The peak ride is around 253.35 minutes at the beginning of month and least ride is around 205.41 mins.  
+-	Member riders: The rides are stable with minor fluctuations. They use ride regularly. The peak ride is around 130.25 mins at the beginning of month and least ride is around 116.74 mins.
+### Popular Start and End Stations:
+-	Casual Riders: The most popular start station is ‘Streeter Dr & Grand Ave’ and popular end station is ‘Streeter Dr & Grand Ave’.
+-	Member riders: The most popular start station is ‘Clinton St & Washington Blvd’ and popular end station is ‘Clinton St & Washington Blvd’.
+-	Other Popular Stations are DuSable Lake Shore Dr & Monroe St, Michigan Ave & Oak St, Clark St & Elm St, Kingsbury St & Kinzie St, etc.
+
+### Insights from Data:
+These are the highlights we found from the data:
+
+1.	The total number of rides done by both riders are 4335294.
+2.	The most popular bikes are classic bike among both riders.
+3.	Both riders use almost same time of ride in weekend. But during work day, member riders use maximum number of ride than casual riders.
+4.	Both groups use maximum number of rides during summer time and least number of ride during winter time.
+5.	The average ride length is 158.96 minutes.
+6.	Casual riders spend more average time than casual riders.
+7.	Popular stations for casual riders include ‘Streeter Dr & Grand Ave,’ while members prefer ‘Clinton St & Washington Blvd.’
+
+### Recommendation & Suggestions:
+
+After analyzing everything we conclude to this decision for further improvement:
+-	Start Seasonal Campaigns: Launch summer campaigns during summer time which is also the peak time of rides by offering different types of discounts, package or loyalty points to keep people riding during the winter.
+
+-	Use social media: Use different types of social media platform to promote events, share different updates related to bike sharing progress, engage with users to build trust with them and gather insights on user experience.
+
+-	Enhance Marketing Strategies: Develop targeted marketing programs to reach out different user segments and highlight unique features of bike service. For example, we can target casual riders to take annual membership by describing different types of perks and benefits such as discounts, exclusive promotions etc.
+
+## Export Data
+### Export Cleaned Data:
+•	Export the cleaned and processed data to a CSV file for further analysis and sharing.
