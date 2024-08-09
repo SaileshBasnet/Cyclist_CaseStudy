@@ -55,14 +55,14 @@ Summarize findings and provide recommendations
 
 ## Detailed Steps: 
 
-### Stage 1: Ask
+## Stage 1: Ask
 
 The final list of questions to analyze are:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
-### Stage 2: Prepare
+## Stage 2: Prepare
 
 For this analysis, we are using the Cyclistics historical trip data [link](https://divvy-tripdata.s3.amazonaws.com/index.html) from 2023 January(202212-divvy-tripdata.zip) to 2023 December(202311-divvy-tripdata.zip). To organize the files, we move the files in folder named as ‘Divvy_TripData_2023’. 
 
@@ -110,7 +110,7 @@ The dataset is considered a good data source based on the ROCCC method:
 
 (****Note***: The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).*)
 
-### Stage 3: Process
+## Stage 3: Process
 
 ### Data Cleaning and Preparation in Microsoft Excel
 
@@ -141,12 +141,12 @@ The following steps were performed to clean and prepare the data for analysis:
 3.	Data Inspection: The structure and contents of each data frame were inspected to ensure consistency.
 4.	Merging Data: All monthly data frames were merged into a single data frame.
 5.	Data Cleaning:
-- Removed null values.
--	Removed duplicate records.
--	Filtered out rides with non-positive durations.
+       - Removed null values.
+       -	Removed duplicate records.
+       -	Filtered out rides with non-positive durations.
 6.	Data Transformation:
--	Converted time-related fields to appropriate date and time formats.
--	Added new columns for month, day, year, and day of the week.
--	Created a new column for ride duration in minutes.
+       -	Converted time-related fields to appropriate date and time formats.
+       -	Added new columns for month, day, year, and day of the week.
+       -	Created a new column for ride duration in minutes.
 
 
