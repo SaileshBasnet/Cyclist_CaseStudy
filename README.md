@@ -204,7 +204,19 @@ The Snippet of dashboard:
 
 ![image](https://github.com/user-attachments/assets/e5dc82b8-06f7-4a48-96e0-fa7bccad8e42)
 
-<p align="center"> Fig: Dashboard Home Page </p>
+<p align="center"> **Fig: Dashboard Home Page** </p>
 
+![image](https://github.com/user-attachments/assets/b6514f22-5925-4f47-8983-e3eec2311ef8)
 
+<p align="center"> **Fig: Dashboard Ride Page** </p>
 
+![image](https://github.com/user-attachments/assets/81088300-34a8-4c65-86bc-aa53f73ee23e)
+
+<p align="center"> **Fig: Dashboard Popular Page** </p>
+
+## Access the Dashboard
+You can access the dashboard from the following link:
+
+[Tableau Dashboard](#)
+
+**Note:** For the best experience, use the **Full Screen** mode to view the dashboard properly.
