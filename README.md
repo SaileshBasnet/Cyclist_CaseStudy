@@ -199,7 +199,7 @@ The following steps were performed to clean and prepare the data for analysis:
 - Month-wise Maximum Rides in a Day: A bar chart showing the maximum number of rides in a day for each month.
 - Top 10 Popular Start Stations for Members and Casual Riders: Bar charts showing the most popular start stations for each user type.
 
-**Read the full documentation:** [link to R Markdown](www.google.com)
+**Read the full documentation:** [link to R Markdown](http://rpubs.com/Sailesh_Basnet/1209752)
 
 After having idea of data, we created a Dashboard using Tableau for proper visualization.
 The Snippet of dashboard: 
