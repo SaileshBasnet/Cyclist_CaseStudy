@@ -189,7 +189,7 @@ max_rides_per_month <- rides_per_day %>%
   summarise(max_ride_in_a_day = max(num_rides), day = which.max(num_rides)) %>% 
   select(month, max_ride_in_a_day, day)
 
-# Othe analysis
+# Other analysis
 # Summarize Ride Data for 2023 by Member Type
 ride_2023V2 %>% group_by(member_casual) %>% summarise(no_of_ride=n(),max_ride_length=max(ride_length_minutes),min_ride_length=min(ride_length_minutes),mean_ride_length=mean(ride_length_minutes))
 
@@ -198,7 +198,7 @@ ride_2023V2 %>% group_by(member_casual) %>% summarise(no_of_ride=n(),max_ride_le
 ride_2023V2 %>% group_by(start_station_name) %>% summarise(no_of_ride=n()) %>%
   arrange(desc(no_of_ride)) 
 
-#End station
+# End station
 ride_2023V2 %>% group_by(end_station_name) %>% summarise(no_of_ride=n()) %>% 
   arrange(desc(no_of_ride))
 
@@ -220,7 +220,7 @@ ride_2023V2 %>% group_by(member_casual,end_station_name) %>% filter(member_casua
   summarise(no_of_ride=n()) %>% arrange(desc(no_of_ride))
 
 
-#Visualization
+# Visualization
 # Total no of ride  per month
 ride_2023V2 %>% group_by(month) %>% summarise(total_ride=n()) %>% 
   ggplot(aes(x=month,y=total_ride,fill = month))+geom_col()+
