@@ -64,7 +64,7 @@ The final list of questions to analyze are:
 
 ## Stage 2: Prepare
 
-For this analysis, we are using the Cyclistics historical trip data [link](https://divvy-tripdata.s3.amazonaws.com/index.html) from 2023 January(202212-divvy-tripdata.zip) to 2023 December(202311-divvy-tripdata.zip). To organize the files, we move the files in folder named as ‘Divvy_TripData_2023’. 
+For this analysis, we are using the Cyclistics historical trip data [link to dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) from 2023 January(202212-divvy-tripdata.zip) to 2023 December(202311-divvy-tripdata.zip). To organize the files, we move the files in folder named as ‘Divvy_TripData_2023’. 
 
 And, we extract all files under the above folder. Then, the files were organized and renamed for easier handling:
 -	202301-divvy-tripdata.csv – 2023_Jan_ride
@@ -180,6 +180,6 @@ The following steps were performed to clean and prepare the data for analysis:
 -	Most Popular Start and End Stations: Identification of the most popular start and end stations overall.
 -	Most Popular Start and End Stations by Member Type: Identification of the most popular start and end stations separately for members and casual users.
 
-**Explore the code treasure:** [link](https://github.com/SaileshBasnet/Cyclist_CaseStudy/blob/main/Data_Analysis.R )
+**Explore the code treasure:** [link to source code](https://github.com/SaileshBasnet/Cyclist_CaseStudy/blob/main/Data_Analysis.R )
 
-**Read the full documentation:** [link](www.google.com)
+**Read the full documentation:** [link to R Markdown](www.google.com)
