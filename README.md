@@ -14,6 +14,7 @@ Flexibility: Bikes can be unlocked at one station and returned to any other stat
 **Membership**:
 
 The company utilized various pricing plans to cater to different customer needs, including:
+
 **Casual Riders**: Individuals who purchase single-ride or full-day passes. These riders typically use the service on an as-needed basis.
 
 **Cyclistic Members**: Customers who opt for annual memberships, indicating a higher frequency of use and a long-term commitment to the bike-share program.
