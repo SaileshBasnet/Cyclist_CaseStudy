@@ -128,7 +128,7 @@ Finding and Removing Blank Values:
 
 ### Determining the Day of the Week:
 -	Add a new column named day_of_week to reflect the day of the week a ride started.
-- Use the formula =TEXT(started_at, "dddd") to display the full name of the day (e.g., "Monday", "Tuesday").
+-      Use the formula =TEXT(started_at, "dddd") to display the full name of the day (e.g., "Monday", "Tuesday").
 
 ### Repeating the Cleaning Steps:
 •	Apply the above cleaning steps to each monthly file.
