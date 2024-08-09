@@ -8,7 +8,9 @@ Cyclistic, a leading bike-share provider, launched its successful program in 201
 ### Operational Model:
 
 Bicycle Fleet: 5,824 bikes
+
 Station Network: 692 stations
+
 Flexibility: Bikes can be unlocked at one station and returned to any other station within the network.
 
 ### Membership:
