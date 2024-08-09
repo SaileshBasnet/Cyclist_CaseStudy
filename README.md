@@ -110,4 +110,43 @@ The dataset is considered a good data source based on the ROCCC method:
 
 (****Note***: The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).*)
 
+### Stage 3: Process
+
+### Data Cleaning and Preparation in Microsoft Excel
+
+The following steps were performed to clean and prepare the data:
+Finding and Removing Blank Values:
+-	Navigate to Home > Find & Select > Go to Special > Blanks.
+-	Delete rows with blank cells using Home > Delete > Delete Sheet Rows.
+
+### Removing Duplicate Values:
+-	Use Data > Remove Duplicates to ensure no duplicate records.
+
+### Calculating Ride Duration:
+-	Add a new column named ride_length to calculate the duration of each ride by subtracting started_at from ended_at.
+-	Format the new column as HH:MM:SS using Format > Cells > Time.
+
+### Determining the Day of the Week:
+-	Add a new column named day_of_week to reflect the day of the week a ride started.
+- Use the formula =TEXT(started_at, "dddd") to display the full name of the day (e.g., "Monday", "Tuesday").
+
+### Repeating the Cleaning Steps:
+•	Apply the above cleaning steps to each monthly file.
+
+### Data Cleaning in R
+
+The following steps were performed to clean and prepare the data for analysis:
+1.	Loaded necessary libraries for data manipulation and visualization.
+2.	Loading Data: The data for each month was loaded into separate data frames.
+3.	Data Inspection: The structure and contents of each data frame were inspected to ensure consistency.
+4.	Merging Data: All monthly data frames were merged into a single data frame.
+5.	Data Cleaning:
+- Removed null values.
+-	Removed duplicate records.
+-	Filtered out rides with non-positive durations.
+6.	Data Transformation:
+-	Converted time-related fields to appropriate date and time formats.
+-	Added new columns for month, day, year, and day of the week.
+-	Created a new column for ride duration in minutes.
+
 
