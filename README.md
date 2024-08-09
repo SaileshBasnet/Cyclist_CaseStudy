@@ -184,37 +184,18 @@ The following steps were performed to clean and prepare the data for analysis:
 
 ## Stage 5: Share
 
-### Visualizations using R
+## Visualizations using R
 
-### Total Rides by Month:
-A bar chart showing the number of rides per month.
-
-### Rides by Bike Type: 
-A bar chart displaying the count of rides for each bike type.
-
-### Rides by User Type:
-A bar chart showing the number of rides for members and casual users.
-
-### Rides by Bike Type and User Type:
-A grouped bar chart depicting the count of rides by bike type for each user type.
-
-### Rides by Month, Bike Type, and User Type:
-A faceted bar chart showing rides by month, bike type, and user type.
-
-### Average Ride Duration by Bike Type:
-A bar chart showing the average ride duration for each bike type.
-
-### Distribution of Rides by Day of Week:
-A bar chart displaying the distribution of rides across different days of the week.
-
-### Ride Length Comparison by User Type:
-A bar chart comparing ride lengths between members and casual users.
-
-#### Month-wise Maximum Rides in a Day:
-A bar chart showing the maximum number of rides in a day for each month.
-
-#### Top 10 Popular Start Stations for Members and Casual Riders:
-Bar charts showing the most popular start stations for each user type.
+- Total Rides by Month: A bar chart showing the number of rides per month.
+- Rides by Bike Type: A bar chart displaying the count of rides for each bike type.
+- Rides by User Type: A bar chart showing the number of rides for members and casual users.
+- Rides by Bike Type and User Type: A grouped bar chart depicting the count of rides by bike type for each user type.
+- Rides by Month, Bike Type, and User Type: A faceted bar chart showing rides by month, bike type, and user type.
+- Average Ride Duration by Bike Type: A bar chart showing the average ride duration for each bike type.
+- Distribution of Rides by Day of Week: A bar chart displaying the distribution of rides across different days of the week.
+- Ride Length Comparison by User Type: A bar chart comparing ride lengths between members and casual users.
+- Month-wise Maximum Rides in a Day: A bar chart showing the maximum number of rides in a day for each month.
+- Top 10 Popular Start Stations for Members and Casual Riders: Bar charts showing the most popular start stations for each user type.
 
 **Read the full documentation:** [link to R Markdown](www.google.com)
 
