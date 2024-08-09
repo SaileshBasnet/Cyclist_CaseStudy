@@ -201,7 +201,9 @@ The following steps were performed to clean and prepare the data for analysis:
 
 After having idea of data, we created a Dashboard using Tableau for proper visualization.
 The Snippet of dashboard: 
-![image](https://github.com/user-attachments/assets/8db837f8-b14c-4aaf-a97d-2c95e2a1af84)
+
+![image](https://github.com/user-attachments/assets/e5dc82b8-06f7-4a48-96e0-fa7bccad8e42)
+
 Fig: Dashboard Home Page
 
 
