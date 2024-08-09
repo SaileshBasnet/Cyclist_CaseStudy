@@ -184,7 +184,7 @@ The following steps were performed to clean and prepare the data for analysis:
 
 ## Stage 5: Share
 
-## Visualizations using R
+### Visualizations using R
 
 - Total Rides by Month: A bar chart showing the number of rides per month.
 - Rides by Bike Type: A bar chart displaying the count of rides for each bike type.
@@ -201,4 +201,8 @@ The following steps were performed to clean and prepare the data for analysis:
 
 After having idea of data, we created a Dashboard using Tableau for proper visualization.
 The Snippet of dashboard: 
+![image](https://github.com/user-attachments/assets/8db837f8-b14c-4aaf-a97d-2c95e2a1af84)
+Fig: Dashboard Home Page
+
+
 
