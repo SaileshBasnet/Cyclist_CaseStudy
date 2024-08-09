@@ -53,7 +53,7 @@ Develop a Tableau dashboard for proper visualization.
 ### Stage 6: Act
 Summarize findings and provide recommendations
 
-## Detailed Steps: 
+### Detailed Steps: 
 
 ## Stage 1: Ask
 
@@ -148,5 +148,36 @@ The following steps were performed to clean and prepare the data for analysis:
        - Converted time-related fields to appropriate date and time formats.
        - Added new columns for month, day, year, and day of the week.
        - Created a new column for ride duration in minutes.
+
+## Stage 4: Analyze	
+
+### Descriptive Analysis
+
+**Ride Length Analysis**: In this analysis, we analyze the max,min,average and median of ride length.
+
+-	Maximum Ride Length: Maximum ride duration in minutes.
+-	Minimum Ride Length: Minimum ride duration in minutes.
+-	Average Ride Length: Mean ride duration in minutes.
+-	Median Ride Length: Median ride duration in minutes
+
+**Ride count by other factors**:
+-	Unique Ride Count: Number of unique rides.
+-	Ride Count by Bike Type: Number of rides for each bike type.
+-	Ride Count by User Type: Number of rides for members and casual users.
+
+**Time Analysis**: In this analysis, we focus on understanding ride patterns over different times of the day, days of the weeks and months.
+-	Average Ride Duration by Rideable Type: Calculation of the average ride duration by rideable type.
+-	Distribution of Rides Across Different Days of the Week: Arrangement of data for day_of_week and summarization of the total number of rides for each day.
+-	Comparison of Ride Lengths Between Member Types: Comparison of average ride lengths and total number of rides between different member types.
+-	Number of Subscribers per Month: Calculation of the number of subscribers (both members and casual) for each month.
+-	Total Number of Rides per Month: Summarization of the total number of rides for each month.
+-	Month-wise Maximum Number of Rides in a Day
+-	Calculation of the maximum number of rides in a day for each month, along with the corresponding day.
+
+**Other Analysis**:
+-	Summary of Ride Data by Member Type: Grouping and summarization of the number of rides, maximum ride length, minimum ride length, and average ride length by member type.
+-	Most Popular Start and End Stations: Identification of the most popular start and end stations overall.
+-	Most Popular Start and End Stations by Member Type: Identification of the most popular start and end stations separately for members and casual users.
+
 
 
