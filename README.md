@@ -203,9 +203,7 @@ After having idea of data, we created a Dashboard using Tableau for proper visua
 The Snippet of dashboard: 
 
 ![image](https://github.com/user-attachments/assets/e5dc82b8-06f7-4a48-96e0-fa7bccad8e42)
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e5dc82b8-06f7-4a48-96e0-fa7bccad8e42" width="300" height="auto" alt="Description of the image">
-</p>
+
 <p align="center"> Fig: Dashboard Home Page </p>
 
 
