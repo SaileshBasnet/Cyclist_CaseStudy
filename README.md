@@ -217,7 +217,7 @@ The Snippet of dashboard:
 ### Access the Dashboard
 You can access the dashboard from the following link: [Tableau Dashboard](#)
 
-*Note: For the best experience, use the **Full Screen** mode to view the dashboard properly.*
+(*Note: For the best experience, use the **Full Screen** mode to view the dashboard properly.*)
 
 ## Stage 6: Act
 
