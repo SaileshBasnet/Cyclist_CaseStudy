@@ -128,10 +128,10 @@ Finding and Removing Blank Values:
 
 ### Determining the Day of the Week:
 -	Add a new column named day_of_week to reflect the day of the week a ride started.
--      Use the formula =TEXT(started_at, "dddd") to display the full name of the day (e.g., "Monday", "Tuesday").
+-  Use the formula =TEXT(started_at, "dddd") to display the full name of the day (e.g., "Monday", "Tuesday").
 
 ### Repeating the Cleaning Steps:
-•	Apply the above cleaning steps to each monthly file.
+-  Apply the above cleaning steps to each monthly file.
 
 ### Data Cleaning in R
 
@@ -142,11 +142,11 @@ The following steps were performed to clean and prepare the data for analysis:
 4.	Merging Data: All monthly data frames were merged into a single data frame.
 5.	Data Cleaning:
        - Removed null values.
-       -	Removed duplicate records.
-       -	Filtered out rides with non-positive durations.
+       - Removed duplicate records.
+       - Filtered out rides with non-positive durations.
 6.	Data Transformation:
-       -	Converted time-related fields to appropriate date and time formats.
-       -	Added new columns for month, day, year, and day of the week.
-       -	Created a new column for ride duration in minutes.
+       - Converted time-related fields to appropriate date and time formats.
+       - Added new columns for month, day, year, and day of the week.
+       - Created a new column for ride duration in minutes.
 
 
