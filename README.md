@@ -1,1 +1,2 @@
-# Cyclist_CaseStudy
+# Cyclistic Bike-Share Program
+## Company Overview
