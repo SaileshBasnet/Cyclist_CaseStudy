@@ -263,20 +263,34 @@ After analyzing everything we conclude to this decision for further improvement:
 -	Enhance Marketing Strategies: Develop targeted marketing programs to reach out different user segments and highlight unique features of bike service. For example, we can target casual riders to take annual membership by describing different types of perks and benefits such as discounts, exclusive promotions etc.
 
 ## Next Steps 📅
-1. Implement Recommendations:
-       - Begin by launching seasonal campaigns. This includes introducing summer promotions with discounts and loyalty rewards and planning winter incentives to maintain user engagement during colder months.
-       - Use social media to engage users by creating and sharing content that highlights bike-sharing benefits and current promotions. Initiate polls and surveys to collect user feedback and insights.
-       - Enhance marketing strategies by developing targeted campaigns to convert casual riders into members. Promote the unique features of the bike-sharing service through both digital and traditional marketing channels.
+### 1. Implement Recommendations
+- **Launch Seasonal Campaigns:**
+  - Introduce summer promotions with discounts and loyalty rewards.
+  - Plan winter incentives to maintain user engagement during colder months.
+- **Use Social Media:**
+  - Create and share content highlighting bike-sharing benefits and current promotions.
+  - Initiate polls and surveys to collect user feedback and insights.
+- **Enhance Marketing Strategies:**
+  - Develop targeted campaigns to convert casual riders into members.
+  - Promote the unique features of the bike-sharing service through both digital and traditional marketing channels.
 
-2. Track Performance:
-       - Define key metrics to evaluate the effectiveness of the new strategies, including user engagement metrics like new sign-ups and ride activity levels such as the number of rides and average ride length.
-       - Implement tracking tools, such as an analytics dashboard, to monitor real-time performance metrics. Collect and review user feedback through surveys and social media.
-       - Prepare monthly performance reports to assess the impact of the new strategies and conduct quarterly reviews to evaluate overall progress and identify trends.
+### 2. Track Performance
+- **Define Key Metrics:**
+  - Evaluate the effectiveness of the new strategies, including user engagement metrics like new sign-ups and ride activity levels such as the number of rides and average ride length.
+- **Implement Tracking Tools:**
+  - Use analytics dashboards to monitor real-time performance metrics.
+  - Collect and review user feedback through surveys and social media.
+- **Prepare Performance Reports:**
+  - Prepare monthly performance reports to assess the impact of the new strategies.
+  - Conduct quarterly reviews to evaluate overall progress and identify trends.
 
-3. Continuous Improvement:
-       - Regularly review performance data and user feedback to determine which strategies are working well and which areas need adjustment.
-       - Refine tactics based on data analysis by making necessary adjustments to campaigns, promotions, and operational aspects like bike maintenance and station locations.
-       - Monitor performance metrics and user feedback on an ongoing basis to ensure that the service remains responsive to user needs and continuously improves.
+### 3. Continuous Improvement
+- **Regular Reviews:**
+  - Regularly review performance data and user feedback to determine which strategies are working well and which areas need adjustment.
+- **Refine Tactics:**
+  - Make necessary adjustments to campaigns, promotions, and operational aspects like bike maintenance and station locations based on data analysis.
+- **Monitor and Improve:**
+  - Continuously monitor performance metrics and user feedback to ensure the service remains responsive to user needs and continuously improves.
    
 ## Export Data 📂
 ### Export Cleaned Data:
