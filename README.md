@@ -1,4 +1,4 @@
-# Cyclistic Bike-Share Program
+# 🚴‍♂️ Cyclistic Bike-Share Program
 ## Company Overview
 
 ### Background:
@@ -7,9 +7,9 @@ Cyclistic, a leading bike-share provider, launched its successful program in 201
 
 ### Operational Model:
 
-Bicycle Fleet: 5,824 bikes
+Bicycle Fleet: 5,824 bikes 🚲
 
-Station Network: 692 stations
+Station Network: 692 stations 🗺️
 
 Flexibility: Bikes can be unlocked at one station and returned to any other station within the network.
 
@@ -21,11 +21,11 @@ The company utilized various pricing plans to cater to different customer needs,
 
 **Cyclistic Members**: Customers who opt for annual memberships, indicating a higher frequency of use and a long-term commitment to the bike-share program.
 
-### My role:
+### My role 👩‍💻
 
 In this scenario, I work at Cyclistic as a junior data analyst, and the main objective assigned to my team is to create marketing plans.
 
-### Objectives: 
+### Objectives 
 
 By Analysing the data, developing marketing tactics to convert casual riders into members.
 
@@ -33,38 +33,38 @@ In order to answer the business questions, we follow these steps of the data ana
 
 ## Data Analysis Process:
 
-### Stage 1: Ask
+### Stage 1: Ask ❓
 Define the final list of questions to analyze.
 
-### Stage 2: Prepare
+### Stage 2: Prepare 🛠️
 Use Cyclistic's historical trip data from January to December 2023.
 Organize the files in a folder named ‘Divvy_TripData_2023’ and make a backup copy.
 
-### Stage 3: Process
+### Stage 3: Process 🔧
 Clean and prepare the data in Microsoft Excel and R.
 Ensure data reliability and quality using the ROCCC method.
 
-### Stage 4: Analyze
+### Stage 4: Analyze 🔍
 Perform descriptive analysis, ride length analysis, and time analysis.
 Generate insights from data on ride patterns, bike types, user types, and popular stations.
 
-### Stage 5: Share
+### Stage 5: Share 📊
 Create visualizations using R.
 Develop a Tableau dashboard for proper visualization.
 
-### Stage 6: Act
+### Stage 6: Act 🚀
 Summarize findings and provide recommendations
 
-### Detailed Steps: 
+### Detailed Steps 📝
 
-## Stage 1: Ask
+## Stage 1: Ask ❓
 
 The final list of questions to analyze are:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
-## Stage 2: Prepare
+## Stage 2: Prepare 🛠️
 
 For this analysis, we are using the Cyclistics historical trip data [link to dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) from 2023 January (202212-divvy-tripdata.zip) to 2023 December (202311-divvy-tripdata.zip). To organize the files, we move the files in folder named as ‘Divvy_TripData_2023’. 
 
@@ -84,7 +84,7 @@ And, we extract all files under the above folder. Then, the files were organized
 
 To avoid future accident, we also make a copy of all files in different folder named as “Copy_Divvy_TripData_2023”.
 
-### Metadata Description
+### Metadata Description 🗃️
 
 The dataset includes the following fields:
 -	ride_id: The ID of the ride
@@ -101,7 +101,7 @@ The dataset includes the following fields:
 -	end_lng: The longitude of the ending location
 -	member_casual: The type of membership (Casual or Member)
 
-### Data Reliability and Quality
+### Data Reliability and Quality 📉
 
 The dataset is considered a good data source based on the ROCCC method:
 -	Reliability: The dataset includes over 5 million trip records annually.
@@ -112,13 +112,13 @@ The dataset is considered a good data source based on the ROCCC method:
 
 (****Note***: The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).*)
 
-## Stage 3: Process
+## Stage 3: Process 🔧
 
 ### Data Cleaning and Preparation in Microsoft Excel
 
 The following steps were performed to clean and prepare the data:
 
-**Finding and Removing Blank Values**:
+### Finding and Removing Blank Values:
 -	Navigate to Home > Find & Select > Go to Special > Blanks.
 -	Delete rows with blank cells using Home > Delete > Delete Sheet Rows.
 
@@ -152,7 +152,7 @@ The following steps were performed to clean and prepare the data for analysis:
        - Added new columns for month, day, year, and day of the week.
        - Created a new column for ride duration in minutes.
 
-## Stage 4: Analyze	
+## Stage 4: Analyze 🔍
 
 ### Descriptive Analysis
 
@@ -182,9 +182,9 @@ The following steps were performed to clean and prepare the data for analysis:
 -	Most Popular Start and End Stations: Identification of the most popular start and end stations overall.
 -	Most Popular Start and End Stations by Member Type: Identification of the most popular start and end stations separately for members and casual users.
 
-**Explore the code treasure:** [link to source code](https://github.com/SaileshBasnet/Cyclist_CaseStudy/blob/main/Data_Analysis.R )
+💎 **Explore the code treasure:** [link to source code](https://github.com/SaileshBasnet/Cyclist_CaseStudy/blob/main/Data_Analysis.R )
 
-## Stage 5: Share
+## Stage 5: Share 📊
 
 ### Visualizations using R
 
@@ -199,7 +199,7 @@ The following steps were performed to clean and prepare the data for analysis:
 - Month-wise Maximum Rides in a Day: A bar chart showing the maximum number of rides in a day for each month.
 - Top 10 Popular Start Stations for Members and Casual Riders: Bar charts showing the most popular start stations for each user type.
 
-**Read the full documentation:** [link to R Markdown](http://rpubs.com/Sailesh_Basnet/1209752)
+📜 **Read the full documentation:** [link to R Markdown](http://rpubs.com/Sailesh_Basnet/1209752) 
 
 After having idea of data, we created a Dashboard using Tableau for proper visualization.
 The Snippet of dashboard: 
@@ -217,11 +217,11 @@ The Snippet of dashboard:
 <p align="center"> <strong> Fig: Dashboard Popular Page </strong>  </p>
 
 ### Access the Dashboard
-You can access the dashboard from the following link: [Tableau Dashboard](https://public.tableau.com/app/profile/sailesh.basnet/viz/Cyclist_Project/Home_Dashboard)
+📈 You can access the dashboard from the following link: [Tableau Dashboard](https://public.tableau.com/app/profile/sailesh.basnet/viz/Cyclist_Project/Home_Dashboard)
 
 (*Note: For the best experience, use the **Full Screen** mode to view the dashboard properly.*)
 
-## Stage 6: Act
+## Stage 6: Act 🚀
 
 ### Summary of Data
 ### Types of Rides: 
@@ -242,7 +242,7 @@ You can access the dashboard from the following link: [Tableau Dashboard](https:
 -	Member riders: The most popular start station is ‘Clinton St & Washington Blvd’ and popular end station is ‘Clinton St & Washington Blvd’.
 -	Other Popular Stations are DuSable Lake Shore Dr & Monroe St, Michigan Ave & Oak St, Clark St & Elm St, Kingsbury St & Kinzie St, etc.
 
-### Insights from Data:
+## Insights from Data 🔍
 These are the highlights we found from the data:
 
 1.	The total number of rides done by both riders are 4335294.
@@ -253,7 +253,7 @@ These are the highlights we found from the data:
 6.	Casual riders spend more average time than casual riders.
 7.	Popular stations for casual riders include ‘Streeter Dr & Grand Ave,’ while members prefer ‘Clinton St & Washington Blvd.’
 
-### Recommendation & Suggestions:
+## Recommendation & Suggestions 📈
 
 After analyzing everything we conclude to this decision for further improvement:
 -	Start Seasonal Campaigns: Launch summer campaigns during summer time which is also the peak time of rides by offering different types of discounts, package or loyalty points to keep people riding during the winter.
@@ -262,6 +262,22 @@ After analyzing everything we conclude to this decision for further improvement:
 
 -	Enhance Marketing Strategies: Develop targeted marketing programs to reach out different user segments and highlight unique features of bike service. For example, we can target casual riders to take annual membership by describing different types of perks and benefits such as discounts, exclusive promotions etc.
 
-## Export Data
+## Next Steps 📅
+1. Implement Recommendations:
+       - Begin by launching seasonal campaigns. This includes introducing summer promotions with discounts and loyalty rewards and planning winter incentives to maintain user engagement during colder months.
+       - Use social media to engage users by creating and sharing content that highlights bike-sharing benefits and current promotions. Initiate polls and surveys to collect user feedback and insights.
+       - Enhance marketing strategies by developing targeted campaigns to convert casual riders into members. Promote the unique features of the bike-sharing service through both digital and traditional marketing channels.
+
+2. Track Performance:
+       - Define key metrics to evaluate the effectiveness of the new strategies, including user engagement metrics like new sign-ups and ride activity levels such as the number of rides and average ride length.
+       - Implement tracking tools, such as an analytics dashboard, to monitor real-time performance metrics. Collect and review user feedback through surveys and social media.
+       - Prepare monthly performance reports to assess the impact of the new strategies and conduct quarterly reviews to evaluate overall progress and identify trends.
+
+3. Continuous Improvement:
+       - Regularly review performance data and user feedback to determine which strategies are working well and which areas need adjustment.
+       - Refine tactics based on data analysis by making necessary adjustments to campaigns, promotions, and operational aspects like bike maintenance and station locations.
+       - Monitor performance metrics and user feedback on an ongoing basis to ensure that the service remains responsive to user needs and continuously improves.
+   
+## Export Data 📂
 ### Export Cleaned Data:
 •	Export the cleaned and processed data to a CSV file for further analysis and sharing.
